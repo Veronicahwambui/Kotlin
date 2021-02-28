@@ -13,8 +13,8 @@ fun name() {
 
 
 }
-fun modulus(num1:Int,num2:Int):Int {
-    var modulus=num1%num2
+fun modulus(num2:Int,num3:Int):Int {
+    var modulus=num2%num3
     return modulus
 
 
